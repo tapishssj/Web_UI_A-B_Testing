@@ -14,9 +14,9 @@ Step 2: Compute a pooled click probability (p_pooled_hat) and pooled variance.
 
 Step 3: Calculate standard error (SE) to measure the precision of click probability estimates.
 
-Step 4:Performs a two-sample Z-test (calculates test statistic (Test_stat), critical value (Z_crit), and p-value).
+Step 4:Perform a two-sample Z-test (calculates test statistic (Test_stat), critical value (Z_crit), and p-value).
 
-Step 5:Determines a confidence interval (CI) to estimate the true difference in click probabilities.
+Step 5:Determine a confidence interval (CI) to estimate the true difference in click probabilities.
 
 Findings:
 The script provides statistical evidence on whether the new design (experimental group) leads to a higher click rate compared to the control group.
