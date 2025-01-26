@@ -1,4 +1,4 @@
-Objective:
+Business request:
 To determine if the difference in click rates between the experimental(exp) and control(con) groups is statistically significant.
 
 Process:
